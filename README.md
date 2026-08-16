@@ -2,23 +2,15 @@
 
 # Akabir Abbas
 
-**Machine Learning Engineer** · Karachi, Pakistan
+**AI and Machine Learning Engineer** · Karachi, Pakistan
 
-I build production ML systems: drift monitoring, model evaluation pipelines,
+I build production AI and ML systems: drift monitoring, model evaluation pipelines,
 LLM-powered services, and the FastAPI backends that run them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akabir-abbas-815b02323)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasakabir@gmail.com)
 
 </div>
-
----
-
-### Currently
-
-Machine Learning Engineer at **Theta X Tech (SMC-Pvt.) Ltd.** since July 2026.
-Outside work: running multi-seed transformer experiments for facial expression
-recognition, and extending ModelOps Doctor's drift detection.
 
 ---
 
@@ -71,7 +63,7 @@ recognition, and extending ModelOps Doctor's drift detection.
 ### Background
 
 - **BS Computer Science**, Sukkur IBA University, 2022 to 2026. Specialized in AI and Machine Learning.
-- **AI & Automation Engineer**, Zorq Studio (remote), Nov 2025 to Mar 2026. Python automation, OpenAI-powered workflows, API integrations, and reliability work.
+- **AI & Automation Engineer**, Zorq Studio (remote). Python automation, OpenAI-powered workflows, API integrations, and reliability work.
 - **Machine Learning Engineer Track**, DataCamp, 2026. Plus certifications from Google, IBM and Microsoft in MLOps, generative AI and data engineering.
 
 ---
