@@ -70,10 +70,10 @@ LLM-powered services, and the FastAPI backends that run them.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=akabirabbasnaqvi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" alt="GitHub stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akabirabbasnaqvi&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akabirabbasnaqvi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400)](https://github.com/akabirabbasnaqvi)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akabirabbasnaqvi&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400)](https://github.com/akabirabbasnaqvi)
 
-<br><br>
+<br>
 
 **Open to AI/ML engineering roles and collaborations.**
 Reach me at [abbasakabir@gmail.com](mailto:abbasakabir@gmail.com).
