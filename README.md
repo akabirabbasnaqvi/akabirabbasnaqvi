@@ -70,12 +70,9 @@ LLM-powered services, and the FastAPI backends that run them.
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akabirabbasnaqvi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&cache_seconds=86400)](https://github.com/akabirabbasnaqvi)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akabirabbasnaqvi&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&cache_seconds=86400)](https://github.com/akabirabbasnaqvi)
-
-<br>
-
 **Open to AI/ML engineering roles and collaborations.**
-Reach me at [abbasakabir@gmail.com](mailto:abbasakabir@gmail.com).
+
+[![Email](https://img.shields.io/badge/abbasakabir@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abbasakabir@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akabir-abbas-815b02323)
 
 </div>
