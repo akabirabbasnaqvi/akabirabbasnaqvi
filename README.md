@@ -59,7 +59,7 @@ LLM-powered services, and the FastAPI backends that run them.
 
 ### Background
 
-- **BS Computer Science**, Sukkur IBA University, 2022 to 2026. Specialized in AI and Machine Learning.
+- **BS Computer Science**, IBA University, 2022 to 2026. Specialized in AI and Machine Learning.
 - **AI & Automation Engineer**, Zorq Studio (remote). Python automation, OpenAI-powered workflows, API integrations, and reliability work.
 - **Machine Learning Engineer Track**, DataCamp, 2026. Plus certifications from Google, IBM and Microsoft in MLOps, generative AI and data engineering.
 
