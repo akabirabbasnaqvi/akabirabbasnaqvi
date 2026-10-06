@@ -7,9 +7,6 @@
 I build production AI and ML systems: drift monitoring, model evaluation pipelines,
 LLM-powered services, and the FastAPI backends that run them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akabir-abbas-815b02323)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abbasakabir@gmail.com)
-
 </div>
 
 ---
@@ -68,8 +65,5 @@ LLM-powered services, and the FastAPI backends that run them.
 <div align="center">
 
 **Open to AI/ML engineering roles and collaborations.**
-
-[![Email](https://img.shields.io/badge/abbasakabir@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abbasakabir@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akabir-abbas-815b02323)
 
 </div>
