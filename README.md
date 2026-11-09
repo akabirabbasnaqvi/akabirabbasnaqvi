@@ -4,7 +4,7 @@
 
 **AI and Machine Learning Engineer** · Karachi, Pakistan
 
-**[akabirabbas.me](www.akabirabbas.me)**
+**[akabirabbas.me](http://akabirabbas.me)**
 
 I build production AI and ML systems: drift monitoring, model evaluation pipelines,
 LLM-powered services, and the FastAPI backends that run them.
