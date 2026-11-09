@@ -3,6 +3,7 @@
 # Akabir Abbas
 
 **AI and Machine Learning Engineer** · Karachi, Pakistan
+**akabirabbas.me**
 
 I build production AI and ML systems: drift monitoring, model evaluation pipelines,
 LLM-powered services, and the FastAPI backends that run them.
@@ -15,7 +16,6 @@ LLM-powered services, and the FastAPI backends that run them.
 
 | Project | What it is | Result |
 |---|---|---|
-| **[ModelOps Doctor](https://github.com/akabirabbasnaqvi/modelops-doctor)** | Full-stack MLOps monitoring platform. Model registry, dataset profiling, PSI/KS drift detection, 0-100 health scoring, Celery retraining jobs, React dashboard. | 0.889 F1 and 79.55 health score on the demo model. 14 tests, 61% coverage. |
 | **[Bubble Sheet & Essay Grader](https://github.com/akabirabbasnaqvi/Automated-Bubblesheet-and-Essay-Evaluation-System)** | Final year project. OMR grading with CNNs, Google Cloud Vision OCR, GPT-4.1 rubric generation and essay scoring. | 98.2% accuracy on the best CNN. University approved. |
 
 ---
